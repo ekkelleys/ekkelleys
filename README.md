@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ekkelleys
+- 👀 I’m interested in Front-End Web Development/ UX and UI design
+- 🌱 I’m currently learning ... Javascript and React
+- 📫 How to reach me ... ekkelleys@gmail.com
